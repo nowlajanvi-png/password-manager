@@ -1,0 +1,15 @@
+# Password Manager
+
+A simple Python project to store and manage passwords.
+
+## Features
+- Add passwords
+- View saved passwords
+- Store passwords in a JSON file
+
+## Technology Used
+- Python
+- JSON
+
+## How to Run
+Run the password_manager.py file using Python.
